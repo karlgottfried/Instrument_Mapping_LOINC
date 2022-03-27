@@ -402,3 +402,10 @@ x0123-0;Total score - Problem behavior;Score;Pt;^Patient;Qn;YASR;SURVEY.MTLHLTH;
 x0123-1;Standard score - Problem behavior;Score;Pt;^Patient;Qn;YASR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Problem behavior];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:YASR
 x0124-0;Total score - Problem behavior;Score;Pt;^Patient;Qn;YSR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Problem behavior];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:YSR
 x0124-1;Standard score - Problem behavior;Score;Pt;^Patient;Qn;YSR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Problem behavior];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:YSR
+x0125-0;Total score - Aufmerksamkeitsstörung;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeitsstörung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-1;Total score - Überaktivität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Überaktivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-2;Total score - Temperament;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Temperament];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-3;Total score - Affektlabilität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Affektlabilität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-4;Total score - Stressintoleranz;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stressintoleranz];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-5;Total score - Desorgansiation;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Desorgansiation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-5;Total score - Impulsivität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
