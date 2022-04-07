@@ -1,0 +1,450 @@
+﻿LOINC_NUM;COMPONENT;PROPERTY;TIME_ASPCT;SYSTEM;SCALE_TYP;METHOD_TYP;CLASS;VersionLastChanged;STATUS;CLASSTYPE;ORDER_OBS;EXTERNAL_COPYRIGHT_NOTICE;EXAMPLE_UNITS;LONG_COMMON_NAME;EXAMPLE_UCUM_UNITS;VersionFirstReleased;LHCForms;FormalName
+x0001-0;Mean score - Neurotizismus;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Neurotizismus];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-1;Total score - Neurotizismus;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Neurotizismus];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-2;Mean score - Extraversion;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Extraversion];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-3;Total score - Extraversion;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Extraversion];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-4;Mean score - Gewissenhaftigkeit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Gewissenhaftigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-5;Total score - Gewissenhaftigkeit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gewissenhaftigkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-6;Mean score - Offenheit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Offenheit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-7;Total score - Offenheit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Offenheit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-8;Mean score - Verträglichkeit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Verträglichkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:NEO-FFI
+x0001-9;Total score - Verträglichkeit;Score;Pt;^Patient;Qn;NEO-FFI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Verträglichkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TCI
+x0002-0;Mean score - Exploratory excitability;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score  [Exploratory excitability];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI
+x0002-1;Mean score - Impulsiveness;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsiveness];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI
+x0002-2;Mean score - Extravagance;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Extravagance];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI
+x0002-3;Mean score - Disorderliness;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Disorderliness];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI
+x0002-4;Mean score - Novelty Seeking;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Novelty Seeking];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI
+x0003-0;Mean score - Harm Avoidance;Score;Pt;^Patient;Qn;TCI-3;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Harm Avoidance];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI-3
+x0003-1;Mean score - Reward Dependence;Score;Pt;^Patient;Qn;TCI-3;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Reward Dependence];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI-3
+x0003-2;Mean score - Persistence;Score;Pt;^Patient;Qn;TCI-3;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Persistence];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TCI-3
+x0004-0;Mean score - Anxiety Sensitivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Anxiety Sensitivity];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0004-1;Mean score - Negative Thinking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Negative Thinking];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0004-2;Mean score - Impulsivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivity];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0004-3;Mean score - Sensation Seeking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sensation Seeking];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0005-0;Total score - Alkoholkonsum;Score;Pt;^Patient;Qn;AUDIT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkoholkonsum];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:AUDIT
+x0006-0;Total score - Alltagsbelastungsbogen;Score;Pt;^Patient;Qn;ABF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alltagsbelastungsbogen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ABF
+x0007-0;Total score - Depression;Score;Pt;^Patient;Qn;ADRS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ADRS
+x0008-0;Total score - Alkoholerwartungen;Score;Pt;^Patient;Qn;AEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkoholerwartungen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:AEQ
+x0009-0;Total score - Depression;Score;Pt;^Patient;Qn;BDI-II;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:BDI-II
+x0010-3;Total score - Motorik;Score;Pt;^Patient;Qn;BIS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Motorik];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:BIS
+x0010-2;Total score - Aumerksamkeit;Score;Pt;^Patient;Qn;BIS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aumerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:BIS
+x0010-1;Total score - Planung;Score;Pt;^Patient;Qn;BIS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Planung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:BIS
+x0010-0;Total score - Impulsivität;Score;Pt;^Patient;Qn;BIS-11;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:BIS-11
+xxxxx-x;Health/Function questions from CDC Behavioural Risk Factor Surveillance System Survey;Score;Pt;^Patient;Qn;BRFSS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;;{score};0;FALSCH;
+x0011-0;Mean score - Somatization;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Somatization];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-1;Mean score - Obsession-compulsion;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Obsession-compulsion];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-2;Mean score - Interpersonal sensitivity;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Interpersonal sensitivity];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-3;Mean score - Depression;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Depression];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-4;Mean score - Anxiety;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Anxiety];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-5;Mean score - Hostility;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Hostility];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-6;Mean score - Phobic anxiety;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Phobic anxiety];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-7;Mean score - Paranoid ideation;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Paranoid ideation];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0011-8;Mean score - Psychoticism;Score;Pt;^Patient;Qn;BSI-53;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Psychoticism];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BSI-53
+x0012-0;Mean score - Risky Behaviour;Score;Pt;^Patient;Qn;BULLY;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Risky Behaviour];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:BULLY
+x0013-0;Mean score - Aufmerksamkeit;Score;Pt;^Patient;Qn;CANTAB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aufmerksamkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CANTAB
+x0013-1;Mean score - Decision-making;Score;Pt;^Patient;Qn;CANTAB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Decision-making];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CANTAB
+x0013-2;Mean score - Executive Funktionen;Score;Pt;^Patient;Qn;CANTAB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Executive Funktionen];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CANTAB
+x0013-3;Mean score - Gedächtnis;Score;Pt;^Patient;Qn;CANTAB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Gedächtnis];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CANTAB
+x0013-4;Total score - Aufmerksamkeit (GO-NoGo);Score;Pt;^Patient;Qn;CANTAB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeit (GO-NoGo)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CANTAB
+x0014-0;Total score - Rauchen;Score;Pt;^Patient;Qn;Cave;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:Cave
+x0014-1;Total score - Alkohol;Score;Pt;^Patient;Qn;Cave;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:Cave
+x0015-0;Standard score - Schizophrenie;Score;Pt;^Patient;Qn;CAPE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Schizophrenie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:CAPE
+x0016-0;Mean score - Aggresivität;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aggresivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-7;Total score - Aggresivität;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aggresivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-1;Mean score - Angst/Depression;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Angst/Depression];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-6;Total score - Angst/Depression;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Angst/Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-2;Mean score - Aufmerksamkeit;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aufmerksamkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-5;Total score - Aufmerksamkeit;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-3;Mean score - Emotionen;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Emotionen];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-4;Total score - Emotionen;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Emotionen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-4;Mean score - Externalisierende Probleme;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Externalisierende Probleme];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-3;Total score - Externalisierende Probleme;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Externalisierende Probleme];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-5;Mean score - Internalizierende Probleme;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Internalizierende Probleme];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-2;Total score - Internalizierende Probleme;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Internalizierende Probleme];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-6;Mean score - Somatische Störung;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Somatische Störung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-1;Total score - Somatische Störung;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Somatische Störung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-7;Mean score - Schlafstörung;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Schlafstörung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0131-0;Total score - Schlafstörung;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schlafstörung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0016-8;Mean score - Withdrawn;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Withdrawn];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBCL
+x0016-9;Total score - Withdrawn;Score;Pt;^Patient;Qn;CBCL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Withdrawn];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CBCL
+x0017-0;Mean score - Aktivitätsniveau;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aktivitätsniveau];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-1;Mean score - Ärger;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Ärger];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-2;Mean score - Annäherung;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Annäherung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-3;Mean score - Aufmerksamkeits-Fokussierung;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aufmerksamkeits-Fokussierung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-4;Mean score - Angst;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Angst];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-5;Mean score - Vergnügen bei hoher Intensität;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Vergnügen bei hoher Intensität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-6;Mean score - Impulsivität;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-7;Mean score - Inhibitorische Kontrolle;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Inhibitorische Kontrolle];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-8;Mean score - Vergnügen bei niedriger Intensität;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Vergnügen bei niedriger Intensität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0017-9;Mean score - Perzeptuelle Sensibilität;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Perzeptuelle Sensibilität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0018-0;Mean score - Traurigkeit;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Traurigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0018-1;Mean score - Schüchternheit;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Schüchternheit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0018-2;Mean score -Lächeln;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score -Lächeln];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0018-3;Mean score - Unbehagen;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Unbehagen];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0018-4;Mean score - Beruhigbarkeit;Score;Pt;^Patient;Qn;CBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Beruhigbarkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CBQ
+x0019-0;Total score - Cigarette Dependence;Score;Pt;^Patient;Qn;CDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Cigarette Dependence];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CDS
+x0020-0;Standard-score Intelligenz;Score;Pt;^Patient;Qn;CFT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard-score Intelligenz];{score};0;FALSCH;Standard:Score:Pt:^Patient:Qn:CFT
+x0021-0;Total score - Angst;Score;Pt;^Patient;Qn;CIDI-DIAX;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Angst];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CIDI-DIAX
+x0022-0;Standard score - Gesundheitszustand;Score;Pt;^Patient;Qn;CID-S;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Gesundheitszustand];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:CID-S
+x0023-0;Standard score - Psychische Störungen;Score;Pt;^Patient;Qn;CMM;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Psychische Störungen];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:CMM
+x0024-0;Total score - COPE;Score;Pt;^Patient;Qn;COPE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [COPE];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:COPE
+x0024-1;Total score - aktives Coping;Score;Pt;^Patient;Qn;COPE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [aktives Coping];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:COPE
+x0024-2;Total score - soziales Coping;Score;Pt;^Patient;Qn;COPE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [soziales Coping];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:COPE
+x0024-3;Total score - emotionales Coping;Score;Pt;^Patient;Qn;COPE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [emotionales Coping];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:COPE
+x0025-0;Total score - Somatische Störung;Score;Pt;^Patient;Qn;CSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Somatische Störung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CSI
+x0025-1;Standard score - Somatische Störung;Score;Pt;^Patient;Qn;CSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Somatische Störung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:CSI
+x0026-0;Mean score - emotional neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [emotional neglect];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CTQ
+x0026-1;Mean score - physical neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [physical neglect];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CTQ
+x0026-2;Mean score - sexual abuse;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [sexual abuse];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CTQ
+x0026-3;Mean score - emotional neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [emotional neglect];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CTQ
+x0026-4;Mean score - physical neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [physical neglect];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:CTQ
+x0026-5;Total score - emotional neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [emotional neglect];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0026-6;Total score - physical neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [physical neglect];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0026-7;Total score - sexual abuse;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [sexual abuse];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0026-8;Total score - emotional neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [emotional neglect];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0026-9;Total score - physical neglect;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [physical neglect];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0130-1;Total score - Total score Mutter;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [total score Mutter];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0130-0;Total score - Total score Vater;Score;Pt;^Patient;Qn;CTQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [total score Vater];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CTQ
+x0027-0;Total score - Cannabis;Score;Pt;^Patient;Qn;CUDIT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Cannabis];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:CUDIT
+x0028-0;Standard score - Aufmerksamkeit;Score;Pt;^Patient;Qn;d2;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Aufmerksamkeit];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:d2
+x0029-0;Total score - Substanzen (drug abuse);Score;Pt;^Patient;Qn;DAST;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Substanzen (drug abuse)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DAST
+x0029-1;Total score - Substanzen (addiction);Score;Pt;^Patient;Qn;DAST;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Substanzen (addiction)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DAST
+x0030-0;Mean score - Antisocial personality disorder;Score;Pt;^Patient;Qn;DAWBA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Antisocial personality disorder];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:DAWBA
+x0030-1;Mean score - Alcohol and substance use;Score;Pt;^Patient;Qn;DAWBA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Alcohol and substance use];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:DAWBA
+x0030-2;Mean score - Psychosis;Score;Pt;^Patient;Qn;DAWBA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Psychosis];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:DAWBA
+x0031-0;Total score - Delinquenz;Score;Pt;^Patient;Qn;DBS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Delinquenz];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DBS
+x0031-1;Mean score - Delinquenz;Score;Pt;^Patient;Qn;DBS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Delinquenz];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:DBS
+x0032-0;Standard score - Depression;Score;Pt;^Patient;Qn;DIKJ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Depression];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:DIKJ
+x0033-0;Total score - Alkohol;Score;Pt;^Patient;Qn;DMQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DMQ
+x0034-0;Total score - Affiliation;Score;Pt;^Patient;Qn;DPA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Affiliation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DPA
+x0035-0; Total score - Alkohol;Score;Pt;^Patient;Qn;DRSEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score; Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:DRSEQ
+x0036-0;Standard score -Intelligenz( Rechtschreibung);Score;Pt;^Patient;Qn;DRT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score -Intelligenz( Rechtschreibung)];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:DRT
+x0037-0;Total score - Essstörung;Score;Pt;^Patient;Qn;EDEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Essstörung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EDEQ
+x0037-1;Mean score - Essstörung;Score;Pt;^Patient;Qn;EDEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Essstörung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EDEQ
+x0038-0;Total score - Aufmerksamkeit;Score;Pt;^Patient;Qn;EDP;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EDP
+x0039-0;Total score - Freude am Kind;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Freude am Kind];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-1;Total score - Rigidität;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rigidität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-2;Total score - unglückliche Kindheit ;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [unglückliche Kindheit ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-3;Total score - Überfürsorge aus Angst;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Überfürsorge aus Angst];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-4;Total score - niedrige Frustrationstoleranz;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [niedrige Frustrationstoleranz];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-5;Total score - Punitivität;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Punitivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-6;Total score - Depressivität;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depressivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-7;Total score - Überforderung;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Überforderung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0039-8;Total score - Total score Mutter;Score;Pt;^Patient;Qn;EMKK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Total score Mutter];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EMKK
+x0040-4;Total score - Depression Mutter;Score;Pt;^Patient;Qn;EPDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression Mutter];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EPDS
+x0040-3;Total score - Depression Vater;Score;Pt;^Patient;Qn;EPDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression Vater];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EPDS
+x0040-0;Total score - Depression;Score;Pt;^Patient;Qn;EPDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EPDS
+x0040-1;Total score - Rauchen (frequency);Score;Pt;^Patient;Qn;ESE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen (frequency)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESE
+x0040-2;Total score - Rauchen (quantity);Score;Pt;^Patient;Qn;ESE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen (quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESE
+x0041-0;Age of onset (Alkohol);Time;Pt;^Patient;Qn;ESPAD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Age of onset (Alkohol)[ESPAD];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESPAD
+x0041-1;Age of onset (Drogen);Time;Pt;^Patient;Qn;ESPAD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Age of onset (Drogen)[ESPAD];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESPAD
+x0041-2;Total score - Alkohol(quantity);Score;Pt;^Patient;Qn;ESPAD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol(quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESPAD
+x0041-3;Total score - Drogen(quantity);Score;Pt;^Patient;Qn;ESPAD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Drogen(quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:ESPAD
+x0042-0;Mean score - Unaufmerksamkeit;Score;Pt;^Patient;Qn;FBB ADHS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Unaufmerksamkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:FBB ADHS
+x0042-1;Mean score - Hyperaktivität;Score;Pt;^Patient;Qn;FBB ADHS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Hyperaktivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:FBB ADHS
+x0043-0;Mean score - Impulsivität;Score;Pt;^Patient;Qn;FBB ADHS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:FBB ADHS
+x0044-0;Standard score - Intelligenz(Rechnen);Score;Pt;^Patient;Qn;FBIT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz(Rechnen)];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:FBIT
+x0045-0;Standard score - Intelligenz(Visuomotorik);Score;Pt;^Patient;Qn;FEW;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz(Visuomotorik)];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:FEW
+x0046-0;Total score - Alkohol;Score;Pt;^Patient;Qn;Form 45 ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:Form 45 
+x0046-1;Total score - Rauchen;Score;Pt;^Patient;Qn;Form45;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:Form45
+x0046-2;Total score - Rauchen und Alkohol;Score;Pt;^Patient;Qn;Form45;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen und Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:Form45
+x0047-0;Total score - Rauchen (age of onset);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen (age of onset)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-1;Total score - Rauchen (quantity);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen (quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-2;Total score - Rauchen (frequency);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen (frequency)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-3;Total score - andere Substanzen (age of onset);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [andere Substanzen (age of onset)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-4;Total score - andere Substanzen (quantity);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [andere Substanzen (quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-5;Total score - andere Substanzen (frequency);Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [andere Substanzen (frequency)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0047-6;Total score - Rauchen/Abhängigkeit;Score;Pt;^Patient;Qn;FTND;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen/Abhängigkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:FTND
+x0048-0;Total score - Depression;Score;Pt;^Patient;Qn;G-CDI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:G-CDI
+x0049-0;Total score - Lebensqualität;Score;Pt;^Patient;Qn;HRQOL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lebensqualität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:HRQOL
+x0050-0;Total score - positive Emotionen;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [positive Emotionen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0050-1;Total score - negative Emotionen;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [negative Emotionen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0050-2;Total score - Beruhigbarkeit;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Beruhigbarkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0050-3;Total score - Angst;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Angst];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0050-4;Total score - Aktivität;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aktivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0050-5;Total score - Gesamtscore;Score;Pt;^Patient;Qn;IBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtscore];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IBQ
+x0051-0;Total score - Aufmerksamkeit;Score;Pt;^Patient;Qn;IDENT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:IDENT
+x0051-1;Mean score - Aufmerksamkeit;Score;Pt;^Patient;Qn;IDENT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aufmerksamkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDENT
+x0052-0;Mean score - kognitive Fähigkeiten;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [kognitive Fähigkeiten];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-1;Mean score - Psychomotorik;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Psychomotorik];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-2;Mean score - Sozial-emotionale Kompetenz;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sozial-emotionale Kompetenz];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-3;Mean score - Leistungsmotivation Durchschnittswert;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Leistungsmotivation Durchschnittswert];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-4;Standard score - Intelligenz;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:IDS
+x0052-5;Percent score - Intelligenz;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Percent score [Intelligenz];{score};0;FALSCH;Percent score:Score:Pt:^Patient:Qn:IDS
+x0052-6;Mean score - Suchtverhalten;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Suchtverhalten];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-7;Mean score - Unangenehme Emotionen;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Unangenehme Emotionen];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0052-8;Mean score - Körperliches Unwohlsein;Score;Pt;^Patient;Qn;IDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Körperliches Unwohlsein];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IDS
+x0053-0;Mean score - Persönlichkeit;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Persönlichkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IRI
+x0053-1;Mean score - Fantasie;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Fantasie];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IRI
+x0053-2;Mean score - Empathie;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Empathie];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:IRI
+x0053-3;Standard score - Persönlichkeit;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Persönlichkeit];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:IRI
+x0053-4;Standard score - Fantasie;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Fantasie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:IRI
+x0053-6;Standard score - Perspektive;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Empathie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:IRI
+x0053-5;Standard score - Empathie;Score;Pt;^Patient;Qn;IRI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Empathie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:IRI
+x0054-0;Mean score - Neugierverhalten;Score;Pt;^Patient;Qn;JTCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Neugierverhalten];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JTCI
+x0054-1;Mean score - Schadensvermeidung;Score;Pt;^Patient;Qn;JTCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Schadensvermeidung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JTCI
+x0054-2;Mean score - Belohnungsabhängigkeit;Score;Pt;^Patient;Qn;JTCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Belohnungsabhängigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JTCI
+x0054-3;Mean score - Persistenz;Score;Pt;^Patient;Qn;JTCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Persistenz];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JTCI
+x0055-0;Mean score - Conventional Crime;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Conventional Crime];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-1;Mean score - Child Maltreatment;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Child Maltreatment];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-2;Mean score - Peer Victimization ;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Peer Victimization ];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-3;Mean score - Sibling Victimization;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sibling Victimization];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-4;Mean score - Witnessing  ;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Witnessing  ];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-5;Mean score - Indirect Victimization;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Indirect Victimization];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0055-6;Mean score - Sexual Assault;Score;Pt;^Patient;Qn;JVQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sexual Assault];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:JVQ
+x0056-0;Total score - Stress;Score;Pt;^Patient;Qn;K6+;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stress];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:K6+
+x0057-0;Total score - Rechnen;Score;Pt;^Patient;Qn;K-ABC ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rechnen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:K-ABC 
+x0057-1;Standard score - Rechnen;Score;Pt;^Patient;Qn;K-ABC ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Rechnen];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:K-ABC 
+x0057-0;Total score - Lebensqualität;Score;Pt;^Patient;Qn;KINDL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lebensqualität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:KINDL
+x0057-1;Standard score - Lebensqualität;Score;Pt;^Patient;Qn;KINDL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Lebensqualität];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:KINDL
+x0058-0;Mean score - Impulsivität;Score;Pt;^Patient;Qn;KIRBY;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:KIRBY
+x0058-1;Total score - Impulsivität;Score;Pt;^Patient;Qn;KIRBY;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:KIRBY
+x0059-0;Mean score - Psychotpathologie;Score;Pt;^Patient;Qn;K-SADS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Psychotpathologie];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:K-SADS
+x0059-1;Total score - Psychotpathologie;Score;Pt;^Patient;Qn;K-SADS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Psychotpathologie];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:K-SADS
+x0060-0;Total score - Alkohol (frequency);Score;Pt;^Patient;Qn;LDH;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol (frequency)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LDH
+x0060-1;Total score - Alkohol (quantity);Score;Pt;^Patient;Qn;LDH;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol (quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LDH
+x0061-0;Total score - Family/Parents;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Family/Parents];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-1;Total score - Accident/lllness;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Accident/lllness];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-2;Total score - Sexuality;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Sexuality];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-3;Total score - Autonomy;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Autonomy];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-4;Total score - Deviance;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Deviance];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-5;Total score - Relocation;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Relocation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-6;Total score - Distress;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Distress];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LEQ
+x0061-7;Mean score - Valenz;Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Valenz];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:LEQ
+x0061-8;Mean score - Lebensereignisse (letztes Jahr);Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Lebensereignisse (letztes Jahr)];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:LEQ
+x0061-9;Mean score - Lebensereignisse (allgemiein);Score;Pt;^Patient;Qn;LEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Lebensereignisse (allgemein)];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:LEQ
+x0062-0;Total score - Lebensereignisse (Gesamt);Score;Pt;^Patient;Qn;LES;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lebensereignisse (Gesamt)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LES
+x0062-1;Total score - Lebensereignisse (positiv);Score;Pt;^Patient;Qn;LES;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lebensereignisse (positiv)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LES
+x0062-2;Total score - Lebensereignisse (negativ);Score;Pt;^Patient;Qn;LES;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lebensereignisse (negativ)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:LES
+x0063-0;Total score - Gesamtscore;Score;Pt;^Patient;Qn;MAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtscore];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAQ
+x0063-1;Total score - Sicherheit;Score;Pt;^Patient;Qn;MAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Sicherheit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAQ
+x0063-2;Total score - Vermeidung;Score;Pt;^Patient;Qn;MAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Vermeidung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAQ
+x0063-3;Total score - Ambivalenz-Sorgen;Score;Pt;^Patient;Qn;MAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ambivalenz-Sorgen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAQ
+x0063-4;Total score - Ambivalenz-Merger;Score;Pt;^Patient;Qn;MAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ambivalenz-Merger];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAQ
+x0063-5;Total score - Alkohol(frequency);Score;Pt;^Patient;Qn;MAST;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol(frequency)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAST
+x0063-6;Total score - Alkohol(quantity);Score;Pt;^Patient;Qn;MAST;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol(quantity)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MAST
+x0064-0;Total score - akute Lebensereignisse;Score;Pt;^Patient;Qn;MEL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [akute Lebensereignisse];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MEL
+x0064-1;Total score - chronische Schwierigkeiten;Score;Pt;^Patient;Qn;MEL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [chronische Schwierigkeiten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MEL
+x0065-0;Total score - aktuelle (mit und ohne früherer Psychopathologie);Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [aktuelle (mit und ohne früherer Psychopathologie)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0065-1;Total score - Psychopathologien, nur frühere;Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Psychopathologien, nur frühere];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0065-2;Total score - aufgeschlüsselt nach früher /aktuell;Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [aufgeschlüsselt nach früher /aktuell];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0065-3;Total score - nur aktuelle (ohne frühere);Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [nur aktuelle (ohne frühere)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0065-4;Total score - Selbstauskunft aktuell + früher;Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Selbstauskunft aktuell + früher];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0065-5;Total score - psychische Störungen Screening;Score;Pt;^Patient;Qn;MINI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [psychische Störungen Screening];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI
+x0066-0;Total score - psychische Störungen Screening;Score;Pt;^Patient;Qn;MINI-5;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [psychische Störungen Screening];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MINI-5
+x0067-0;Total score - Ablenkung;Score;Pt;^Patient;Qn;MMT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ablenkung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MMT
+x0067-1;Total score - Einschätzung der Mutter;Score;Pt;^Patient;Qn;MMT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Einschätzung der Mutter];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MMT
+x0067-2;Total score - Extra Support;Score;Pt;^Patient;Qn;MMT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Extra Support];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MMT
+x0067-3;Total score - Gezeigtes Verhalten;Score;Pt;^Patient;Qn;MMT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gezeigtes Verhalten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MMT
+x0067-4;Total score - Wartezeit;Score;Pt;^Patient;Qn;MMT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Wartezeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MMT
+x0067-5;Total score - Motorik;Score;Pt;^Patient;Qn;MOT 4-6 ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Motorik];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:MOT 4-6 
+x0068-0;Total score - Rauchen;Score;Pt;^Patient;Qn;NS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:NS
+x0069-0;Total score - Bindung zu den Eltern;Score;Pt;^Patient;Qn;PAAQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Bindung zu den Eltern];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAAQ
+x0069-0;Total score - Schwangerschaft/Bindung/Mutter;Score;Pt;^Patient;Qn;PAI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schwangerschaft/Bindung/Mutter];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAI
+x0069-1;Total score - Schwangerschaft/Bindung/Vater;Score;Pt;^Patient;Qn;PAI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schwangerschaft/Bindung/Vater];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAI
+x0070-0;Total score - Aufmerksamkeit;Score;Pt;^Patient;Qn;PALP;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PALP
+x0070-1;Standard score - Aufmerksamkeit;Score;Pt;^Patient;Qn;PALP;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Aufmerksamkeit];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:PALP
+x0071-0;Total score - Gesamtwert;Score;Pt;^Patient;Qn;PAULI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtwert];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAULI
+x0071-1;Total score -  - Arbeitsvesuch, Fehlerprozente;Score;Pt;^Patient;Qn;PAULI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Arbeitsvesuch, Fehlerprozente];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAULI
+x0071-2;Total score -  - Arbeitsversuch, Trend;Score;Pt;^Patient;Qn;PAULI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Arbeitsversuch, Trend];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAULI
+x0071-3;Total score -  - Arbeitsversuch, Schwankungsprozente;Score;Pt;^Patient;Qn;PAULI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Arbeitsversuch, Schwankungsprozente];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PAULI
+x0072-0;Total score - Verzögerte Bindung;Score;Pt;^Patient;Qn;PBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Verzögerte Bindung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PBQ
+x0072-1;Total score - Ablehnung und Wut;Score;Pt;^Patient;Qn;PBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ablehnung und Wut];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PBQ
+x0072-2;Total score - Angst;Score;Pt;^Patient;Qn;PBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Angst];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PBQ
+x0072-3;Total score - Gesamtscore;Score;Pt;^Patient;Qn;PBQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtscore];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PBQ
+x0072-4;Total score - Schwangerschaftsspezifische Stressbelastung;Score;Pt;^Patient;Qn;PDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schwangerschaftsspezifische Stressbelastung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PDQ
+x0073-0;Total score - Pubertätsstatus;Score;Pt;^Patient;Qn;PDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Pubertätsstatus];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PDS
+x0073-1;Standard score - Pubertätsstatus;Score;Pt;^Patient;Qn;PDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Pubertätsstatus];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:PDS
+x0074-0;Total score - Rezeptive Sprache;Score;Pt;^Patient;Qn;PET;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rezeptive Sprache];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PET
+x0074-1;Total score - Kurzzeitgedächtnis;Score;Pt;^Patient;Qn;PET;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Kurzzeitgedächtnis];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PET
+x0074-2;Total score - Kurzzeitgedächtnis/Aufmerksamkeit;Score;Pt;^Patient;Qn;PET;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Kurzzeitgedächtnis/Aufmerksamkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PET
+x0075-0;Total score - Partnerschaft;Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Partnerschaft];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-1;Total score - allgemeine Qualität der Beziehung;Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Qualität der Beziehung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-2;Total score - allgemeine Beziehungszufriedenheit;Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Beziehungszufriedenheit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-3;Total score - hadern mit der Partnerschaft;Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [hadern mit der Partnerschaft];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-4;Total score - allgemeine Qualität der Beziehung (Vater);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Qualität der Beziehung (Vater)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-5;Total score - allgemeine Beziehungszufriedenheit (Vater);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Beziehungszufriedenheit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-6;Total score - hadern mit der Partnerschaft (Vater);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [hadern mit der Partnerschaft (Vater)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-7;Total score - allgemeine Qualität der Beziehung (Mutter);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Qualität der Beziehung (Mutter)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-8;Total score - allgemeine Beziehungszufriedenheit (Mutter);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [allgemeine Beziehungszufriedenheit (Mutter)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0075-9;Total score - hadern mit der Partnerschaft (Mutter);Score;Pt;^Patient;Qn;PFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [hadern mit der Partnerschaft (Mutter)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB
+x0129-0;Total score - Gesamtwert;Score;Pt;^Patient;Qn;PFB-K;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtwert];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PFB-K
+x0076-0;Total score - Gesundheitszustand;Score;Pt;^Patient;Qn;PHQ-8;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesundheitszustand];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PHQ-8
+x0077-0;Total score - gross hand movement and fingertip dexterity;Score;Pt;^Patient;Qn;PP;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [gross hand movement and fingertip dexterity];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PP
+x0078-0;Total score - Aggressivität;Score;Pt;^Patient;Qn;PSD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aggressivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSD
+x0079-0;Mean score - Stress;Score;Pt;^Patient;Qn;PSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Stress];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:PSI
+x0079-1;Total score - Stress;Score;Pt;^Patient;Qn;PSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stress];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSI
+x0080-0;Total score - Stressbelastung Total;Score;Pt;^Patient;Qn;PSS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stressbelastung Total];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSS
+x0080-1;Total score - Stressbelastung (Mutter);Score;Pt;^Patient;Qn;PSS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stressbelastung (Mutter)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSS
+x0080-2;Total score - Stressbelastung (Vater);Score;Pt;^Patient;Qn;PSS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stressbelastung (Vater)];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSS
+x0081-0;Total score - Stress;Score;Pt;^Patient;Qn;PSS-10;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stress];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSS-10
+x0081-1;Mean score - Stress;Score;Pt;^Patient;Qn;PSS-10;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Stress];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:PSS-10
+x0082-0;Total score - Psychotpathologie;Score;Pt;^Patient;Qn;PSYPA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Psychotpathologie];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:PSYPA
+x0082-1;Mean score - Psychotpathologie;Score;Pt;^Patient;Qn;PSYPA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Psychotpathologie];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:PSYPA
+x0083-0;Mean score - Alkohol;Score;Pt;^Patient;Qn;RAPI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Alkohol];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:RAPI
+x0083-1;Total score - Alkohol;Score;Pt;^Patient;Qn;RAPI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:RAPI
+x0128-0;Total score - Rumination;Score;Pt;^Patient;Qn;RRS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rumination];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:RRS
+x0084-0;Total score - Resilienz;Score;Pt;^Patient;Qn;RS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Resilienz];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:RS
+x0084-1;Mean score - Resilienz;Score;Pt;^Patient;Qn;RS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Resilienz];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:RS
+x0085-0;Standard score - Derpession;Score;Pt;^Patient;Qn;RSQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Derpession];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:RSQ
+x0085-1;Total score - Depression;Score;Pt;^Patient;Qn;RSQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Depression];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:RSQ
+x0086-0;Total score - Handy Nutzung;Score;Pt;^Patient;Qn;SCAMP;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Handy Nutzung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SCAMP
+x0087-0;Total score - Alkohol;Score;Pt;^Patient;Qn;SCID-SUD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SCID-SUD
+x0087-1;Mean score - Alkohol;Score;Pt;^Patient;Qn;SCID-SUD;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Alkohol];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SCID-SUD
+x0088-0;Mean score - Emotionale Probleme;Score;Pt;^Patient;Qn;SDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Emotionale Probleme];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SDQ
+x0088-1;Mean score - Verhaltensprobleme ;Score;Pt;^Patient;Qn;SDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Verhaltensprobleme ];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SDQ
+x0088-2;Mean score - Hyperaktivität;Score;Pt;^Patient;Qn;SDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Hyperaktivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SDQ
+x0088-3;Total score - Gesamtwert SDQ;Score;Pt;^Patient;Qn;SDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gesamtwert SDQ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDQ
+x0088-4;Total score - Dysregulation;Score;Pt;^Patient;Qn;SDQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Dysregulation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDQ
+x0089-0;Total score - Cannabis/Drogen;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Cannabis/Drogen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-1;Total score - Drogen;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Drogen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-2;Total score - Aufputschmittel/Amphetamine/Speed;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufputschmittel/Amphetamine/Speed];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-3;Total score - LSD/andere Halluzinogene;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [LSD/andere Halluzinogene];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-4;Total score - Crack;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Crack];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-5;Total score - Kokain;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Kokain];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-6;Total score - Notalin;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Notalin];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-7;Total score - Heroin;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Heroin];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-8;Total score - Baltok;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Baltok];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0089-9;Total score - Ecstasy;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ecstasy];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-0;Total score - Drogenpilze-/pflanzen;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Drogenpilze-/pflanzen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-1;Total score - GHB;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [GHB];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-2;Total score - Leim/andere Lösungsmittel;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Leim/andere Lösungsmittel];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-3;Total score - Muskelaufbaupräparate;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Muskelaufbaupräparate];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-4;Total score - Andere Substanzen;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Andere Substanzen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0090-5;Total score - Name andere Droge;Score;Pt;^Patient;Qn;SDS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Name andere Droge];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SDS
+x0091-0;Mean score - Rauchen;Score;Pt;^Patient;Qn;SER;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Rauchen];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SER
+x0091-1;Total score - Rauchen;Score;Pt;^Patient;Qn;SER;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SER
+x0092-0;Total score - Suchtverhalten;Score;Pt;^Patient;Qn;SFA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Suchtverhalten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SFA
+x0092-1;Total score - Suchtverhalten;Score;Pt;^Patient;Qn;SFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Suchtverhalten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SFB
+x0093-0;Standard score - Leistungsauffälligkeiten ;Score;Pt;^Patient;Qn;SI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Leistungsauffälligkeiten ];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SI
+x0093-1;Standard score - Aggressivivtät;Score;Pt;^Patient;Qn;SI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Aggressivivtät];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SI
+x0093-2;Standard score - Neurotizismus;Score;Pt;^Patient;Qn;SI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Neurotizismus];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SI
+x0094-0;Standard score - SKID I Diagnose;Score;Pt;^Patient;Qn;SKID;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [SKID I Diagnose];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SKID
+x0094-1;Standard score - Psychopathologie;Score;Pt;^Patient;Qn;SKID;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Psychopathologie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SKID
+x0094-2;Standard score - Diagnosen/psychische Auffälligkeiten;Score;Pt;^Patient;Qn;SKID;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Diagnosen/psychische Auffälligkeiten];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SKID
+x0095-0;Total score - Schaf;Score;Pt;^Patient;Qn;SL;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schaf];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SL
+x0096-0;Total score - Selbstbeurteilung;Score;Pt;^Patient;Qn;SPA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Selbstbeurteilung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SPA
+x0097-0;Mean score - Impulsivität;Score;Pt;^Patient;Qn;SRC;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SRC
+x0097-1;Total score - Impulsivität;Score;Pt;^Patient;Qn;SRC;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SRC
+x0098-0;Total score - Rauchen;Score;Pt;^Patient;Qn;SRE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SRE
+x0098-1;Total score - Alkohol;Score;Pt;^Patient;Qn;SRE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SRE
+x0099-0;Total score - Erregbarkeit;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Erregbarkeit];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-1;Total score - Leistungsresignation;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Leistungsresignation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-2;Total score - Konzentrationsschwierigkeiten;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Konzentrationsschwierigkeiten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-3;Total score - Aggresivität;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aggresivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-4;Total score - lebhaftes Verhalten;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [lebhaftes Verhalten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-5;Total score - Angst ;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Angst ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-6;Total score - Selbswertdepravation;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Selbswertdepravation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-7;Total score - Argwohn;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Argwohn];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-8;Total score - Benachteiligungserleben;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Benachteiligungserleben];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0099-9;Total score - Lügenskala;Score;Pt;^Patient;Qn;SSK;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Lügenskala];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SSK
+x0100-0;Standard score - Angst (aktuell);Score;Pt;^Patient;Qn;STAIC;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Angst (aktuell)];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:STAIC
+x0101-0;Standard score - Angst (aktuell);Score;Pt;^Patient;Qn;STAIS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Angst (aktuell)];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:STAIS
+x0102-0;Standard score - Angst (allgemein);Score;Lifetime;^Patient;Qn;STAIT;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Angst (allgemein)];{score};0;FALSCH;Standard score:Score:Lifetime:^Patient:Qn:STAIT
+x0103-0;Mean score - Anxiety Sensitivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Anxiety Sensitivity];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0103-1;Mean score - Negative Thinking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Negative Thinking];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0103-2;Mean score - Impulsivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Impulsivity];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0103-3;Mean score -Sensation Seeking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sensation Seeking];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SURPS
+x0103-4;Total score - Anxiety Sensitivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Anxiety Sensitivity];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SURPS
+x0103-5;Total score - Negative Thinking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Negative Thinking];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SURPS
+x0103-6;Total score - Impulsivity;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivity];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SURPS
+x0103-7;Total score -Sensation Seeking;Score;Pt;^Patient;Qn;SURPS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Sensation Seeking];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SURPS
+x0104-0;Total score - Bagetellisierung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Bagetellisierung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-1;Total score - Herunterspielen durch Vergleich;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Herunterspielen durch Vergleich];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-2;Total score - Schuldabwehr;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Schuldabwehr];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-3;Total score - Ablenkung von Situationen ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ablenkung von Situationen ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-4;Total score - Ersatbefriedigung ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Ersatbefriedigung ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-5;Total score - Suche nach Selbstbestätigung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Suche nach Selbstbestätigung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-6;Total score - Situationskontrollversuche;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Situationskontrollversuche];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-7;Total score - Reaktionskontrollversuche ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Reaktionskontrollversuche ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-8;Total score - Positive Selbstinstruktion ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Positive Selbstinstruktion ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0104-9;Total score - Bedürfnis nach sozialer Unterstützung ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Bedürfnis nach sozialer Unterstützung ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-0;Total score - Vermeidungstendenz ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Vermeidungstendenz ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-1;Total score - Fluchttendenz ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Fluchttendenz ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-2;Total score - Soziale Abkapslung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Soziale Abkapslung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-3;Total score - Gedankliche Weiterbeschäftigung ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Gedankliche Weiterbeschäftigung ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-4;Total score - Resignation;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Resignation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-5;Total score - Selbstbemitleidung ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Selbstbemitleidung ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-6;Total score - Selbstbeschuldigung ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Selbstbeschuldigung ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-7;Total score - Aggression ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aggression ];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-8;Total score - Pharmakaeinnahme;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Pharmakaeinnahme];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0105-9;Standard score - Bagatellisierung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Bagatellisierung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-0;Standard score - Herunterspielen durch Vergleich;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Herunterspielen durch Vergleich];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-1;Standard score - Schuldabwehr;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Schuldabwehr];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-2;Standard score - Ablenkung von Situation;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Ablenkung von Situation];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-3;Standard score - Ersatzbefriedigung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Ersatzbefriedigung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-4;Standard score - Such nach Selbstbestätigung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Such nach Selbstbestätigung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-5;Standard score - Situationskontrollversuche;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Situationskontrollversuche];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-6;Standard score - Reaktionskontrollversuche;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Reaktionskontrollversuche];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-7;Standard score - Positive Selbstinstruktion;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Positive Selbstinstruktion];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-8;Standard score - Bedürfnis nach sozialer Unterstützung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Bedürfnis nach sozialer Unterstützung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0106-9;Standard score - Vermeidungstendenz;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Vermeidungstendenz];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-0;Standard score - Fluchttendenz ;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Fluchttendenz ];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-1;Standard score - Soziale Abkapslung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Soziale Abkapslung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-2;Standard score - Gedankliche Weiterbeschäftigung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Gedankliche Weiterbeschäftigung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-3;Standard score - Resignation;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Resignation];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-4;Standard score - Selbstmitleid;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Selbstmitleid];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-5;Standard score - Selbstbeschuldigung;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Selbstbeschuldigung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-6;Standard score - Aggression;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Aggression];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-7;Standard score - Pharmakaeinnahme;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Pharmakaeinnahme];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:SVF
+x0107-8;Total score;Score;Pt;^Patient;Qn;SVF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [SVF];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:SVF
+x0108-0;Mean score - Selbstwirksamkeit;Score;Pt;^Patient;Qn;SWE;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Selbstwirksamkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:SWE
+x0109-0;Standard score - Temperament;Score;Pt;^Patient;Qn;TCI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Temperament];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:TCI
+x0110-0;Standard score - Essstörung;Score;Pt;^Patient;Qn;TFEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Essstörung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:TFEQ
+x0110-1;Total score - Essstörung;Score;Pt;^Patient;Qn;TFEQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Essstörung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TFEQ
+x0111-0;Standard score - Rechtschreiben;Score;Pt;^Patient;Qn;TGR 1/2;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Rechtschreiben];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:TGR 1/2
+x0112-0;Total score - Alkohol;Score;Pt;^Patient;Qn;TLFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Alkohol];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TLFB
+x0112-1;Total score - Rauchen;Score;Pt;^Patient;Qn;TLFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Rauchen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TLFB
+x0112-2;Total score - Drogen;Score;Pt;^Patient;Qn;TLFB;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Drogen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TLFB
+x0113-0;Mean score - Verhaltenskontrolle;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Verhaltenskontrolle];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-1;Mean score - Seelische Gesundheit;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Seelische Gesundheit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-2;Mean score -  Sinnerfüllung;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [ Sinnerfüllung];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-3;Mean score - Selbstvergessenheit;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Selbstvergessenheit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-4;Mean score - Beschwerdefreiheit;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Beschwerdefreiheit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-5;Mean score - Expansivität;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Expansivität];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-6;Mean score - Autonomie;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Autonomie];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-7;Mean score - Selbstwertgefühl;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Selbstwertgefühl];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0113-8;Mean score - Liebesfähigkeit;Score;Pt;^Patient;Qn;TPF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Liebesfähigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TPF
+x0114-0;Mean score - Verhaltensauffälligkeiten;Score;Pt;^Patient;Qn;TRF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Verhaltensauffälligkeiten];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:TRF
+x0114-1;Total score - Verhaltensauffälligkeiten;Score;Pt;^Patient;Qn;TRF;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Verhaltensauffälligkeiten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:TRF
+x0115-0;Standard score - Urbanität;Score;Pt;^Patient;Qn;URBANICITY;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Urbanität];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:URBANICITY
+x0115-1;Total score - Urbanität;Score;Pt;^Patient;Qn;URBANICITY;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Urbanität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:URBANICITY
+x0116-0;Standard score - Psychotpathologie;Score;Pt;^Patient;Qn;VBV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Psychotpathologie];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:VBV
+x0117-0;Standard score - Spielverhalten;Score;Pt;^Patient;Qn;VGS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Spielverhalten];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:VGS
+x0117-1;Total score - Spielverhalten;Score;Pt;^Patient;Qn;VGS;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Spielverhalten];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:VGS
+x0118-0;Mean score - Aggression;Score;Pt;^Patient;Qn;VIRA;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Aggression];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:VIRA
+x0119-0;Standard score - Intelligenz;Score;Pt;^Patient;Qn;WAIS-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WAIS-IV
+x0119-1;Percent score - Intelligenz;Score;Pt;^Patient;Qn;WAIS-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Percent score [Intelligenz];{score};0;FALSCH;Percent score:Score:Pt:^Patient:Qn:WAIS-IV
+x0119-2;Raw score - Intelligenz;Score;Pt;^Patient;Qn;WAIS-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Raw score [Intelligenz];{score};0;FALSCH;Raw score:Score:Pt:^Patient:Qn:WAIS-IV
+x0120-0;Total score - Emotionen;Score;Pt;^Patient;Qn;WHO-5;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Emotionen];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WHO-5
+x0121-0;Standard score - Intelligenz;Score;Pt;^Patient;Qn;WISC-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WISC-IV
+x0121-1;Percent score - Intelligenz;Score;Pt;^Patient;Qn;WISC-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Percent score [Intelligenz];{score};0;FALSCH;Percent score:Score:Pt:^Patient:Qn:WISC-IV
+x0121-2;Raw score - Intelligenz;Score;Pt;^Patient;Qn;WISC-IV;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Raw score [Intelligenz];{score};0;FALSCH;Raw score:Score:Pt:^Patient:Qn:WISC-IV
+x0122-0;Standard score - IQ-Wert Allgemeine Sprachskala;Score;Pt;^Patient;Qn;WPPSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [IQ-Wert Allgemeine Sprachskala];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WPPSI
+x0122-1;Standard score - IQ-Wert Gesamt;Score;Pt;^Patient;Qn;WPPSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [IQ-Wert Gesamt];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WPPSI
+x0122-2;Standard score - IQ-Wert Handlungteil;Score;Pt;^Patient;Qn;WPPSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [IQ-Wert Handlungteil];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WPPSI
+x0122-3;Standard score - IQ-Wert Verbalteil;Score;Pt;^Patient;Qn;WPPSI;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [IQ-Wert Verbalteil];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:WPPSI
+x0123-0;Total score - Problem behavior;Score;Pt;^Patient;Qn;YASR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Problem behavior];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:YASR
+x0123-1;Standard score - Problem behavior;Score;Pt;^Patient;Qn;YASR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Problem behavior];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:YASR
+x0124-0;Total score - Problem behavior;Score;Pt;^Patient;Qn;YSR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Problem behavior];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:YSR
+x0124-1;Standard score - Problem behavior;Score;Pt;^Patient;Qn;YSR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Problem behavior];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:YSR
+x0126-0;Standard score - Gesamtwert;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Gesamtwert];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0126-1;Standard score - Hyperkinese;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Hyperkinese];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0126-2;Standard score - Soziale Anpassung;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Soziale Anpassung];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0126-3;Standard score - Emotionale Labilität ;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Emotionale Labilität ];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0126-4;Standard score - Intelligenz ;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Intelligenz];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0126-5;Standard score - Erziehbarkeit ;Score;Pt;^Patient;Qn;E-F;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Erziehbarkeit];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:E-F
+x0127-0;Standard score  - Entwicklungsquotient;Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Standard score [Entwicklungsquotient];{score};0;FALSCH;Standard score:Score:Pt:^Patient:Qn:EQ
+x0127-1;Total score - Entwicklungsquotient;Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Entwicklungsquotient];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:EQ
+x0127-2;Mean score - darstellende Tätigkeiten (Musik);Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [darstellende Tätigkeiten (Musik)];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EQ
+x0127-3;Mean score - Selbständigkeit;Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Selbständigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EQ
+x0127-4;Mean score - Sprache (Denken);Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Sprache (Denken)];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EQ
+x0127-5;Mean score - Soziales Verhalten;Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Soziales Verhalten];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EQ
+x0127-6;Mean score - Spieltätigkeit;Score;Pt;^Patient;Qn;EQ;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Mean score [Spieltätigkeit];{score};0;FALSCH;Mean score:Score:Pt:^Patient:Qn:EQ
+x0125-0;Total score - Aufmerksamkeitsstörung;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Aufmerksamkeitsstörung];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-1;Total score - Überaktivität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Überaktivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-2;Total score - Temperament;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Temperament];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-3;Total score - Affektlabilität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Affektlabilität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-4;Total score - Stressintoleranz;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Stressintoleranz];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-5;Total score - Desorgansiation;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Desorgansiation];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
+x0125-6;Total score - Impulsivität;Score;Pt;^Patient;Qn;WIR;SURVEY.MTLHLTH;0;ACTIVE;4;Observation;-;score;Total score [Impulsivität];{score};0;FALSCH;Total score:Score:Pt:^Patient:Qn:WIR
